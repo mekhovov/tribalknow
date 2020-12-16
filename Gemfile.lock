@@ -465,7 +465,7 @@ GEM
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     underscore-rails (1.6.0)
-    user_agent_parser (2.3.0)
+    user_agent_parser (2.7.0)
     uuidtools (2.1.5)
     warden (1.2.6)
       rack (>= 1.0)
