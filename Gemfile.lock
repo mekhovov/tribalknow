@@ -307,7 +307,7 @@ GEM
       activesupport (>= 3.0.0)
     quiet_assets (1.0.3)
       railties (>= 3.1, < 5.0)
-    rack (1.6.4)
+    rack (1.6.13)
     rack-attack (4.4.1)
       rack
     rack-protection (1.5.3)
